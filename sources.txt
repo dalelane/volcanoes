@@ -1,0 +1,15 @@
+aust.txt - https://www.ga.gov.au/education/natural-hazards/volcano
+bitesize-ks2.txt - https://www.bbc.co.uk/bitesize/articles/zfhf3j6
+bitesize-gcse-ccea.txt - https://www.bbc.co.uk/bitesize/articles/zkvxvj6
+bitesize-gcse-aqa.txt - https://www.bbc.co.uk/bitesize/guides/z8p9j6f/revision/1
+bitesize-gcse-ocr.txt - https://www.bbc.co.uk/bitesize/guides/z3j8frd/revision/1
+bitesize-revise.txt - https://www.bbc.co.uk/bitesize/articles/zrj6gwx
+britannica.txt - https://www.britannica.com/science/volcano
+kiddle.txt - https://kids.kiddle.co/Volcano
+kids-britannica.txt - https://kids.britannica.com/kids/article/volcano/353902
+nasa.txt - https://spaceplace.nasa.gov/volcanoes2/en/
+national-geographic.txt - https://www.nationalgeographic.com/environment/article/volcanoes
+nhmu.txt - https://nhmu.utah.edu/sites/default/files/attachments/Volcano%20FAQs.pdf
+twinkl.txt - https://www.twinkl.co.uk/teaching-wiki/volcano
+wikipedia.txt - https://en.wikipedia.org/wiki/Volcano
+wizkids.txt - https://www.weatherwizkids.com/weather-volcano.htm
